@@ -12,3 +12,7 @@
    lays out the goals for the upcomming sprint and determine the difficulty of different items. The daily meeting is a short (10 minute)
    meeting where team members discuss their progress on items and any blockers preventing progress. The retrospective meeting reviews the previous
    sprint including what got done and what work remains incomplete and needs to be moved to the backlog.
+
+4. An Epic is a large goal that can be broken down into smaller pieces. A Story is a requirement of a piece of software that can be expressed
+   in a few sentences. A Bug is an issue meaning the program has an error that needs to be fixed, usually blocking a story. A task is a small
+   unit of work that usually aligns with implementing a Story requirement.
