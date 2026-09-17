@@ -7,3 +7,8 @@
 
 2. The product owner is the person that decides what to build and assembles the initial team, including the scrum master.
    The scrum master's role is to manage the development of the product by organizing meetings and sprints.
+
+3. The three meetings are sprint planning meeting, daily scrum meeting, and sprint retrospective meeting. The planning meeting
+   lays out the goals for the upcomming sprint and determine the difficulty of different items. The daily meeting is a short
+   meeting where team members discuss their progress on items and any blockers. The retrospective meeting reviews the previous
+   sprint including what got done and what work remains incomplete and needs to be moved to the backlog.
