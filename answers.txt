@@ -4,3 +4,6 @@
    is in continuous development, the end user could end up using a broken version while waiting for a bug
    to be fixed. Another potential con is that it is a more complicated process than a simple plan-develop-test-release
    approach.
+
+2. The product owner is the person that decides what to build and assembles the initial team, including the scrum master.
+   The scrum master's role is to manage the development of the product by organizing meetings and sprints.
