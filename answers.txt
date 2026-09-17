@@ -10,5 +10,5 @@
 
 3. The three meetings are sprint planning meeting, daily scrum meeting, and sprint retrospective meeting. The planning meeting
    lays out the goals for the upcomming sprint and determine the difficulty of different items. The daily meeting is a short (10 minute)
-   meeting where team members discuss their progress on items and any blockers. The retrospective meeting reviews the previous
+   meeting where team members discuss their progress on items and any blockers preventing progress. The retrospective meeting reviews the previous
    sprint including what got done and what work remains incomplete and needs to be moved to the backlog.
