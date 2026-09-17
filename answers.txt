@@ -1,1 +1,6 @@
-Some more text
+1. Some pros are that agile development gives you the ability to frequently revisit the planning stages
+   to add new features as the customer is using the product and to address bugs as they come up rather
+   than needing to go back to the early stages and start over. Some potential cons are since the software
+   is in continuous development, the end user could end up using a broken version while waiting for a bug
+   to be fixed. Another potential con is that it is a more complicated process than a simple plan-develop-test-release
+   approach.
